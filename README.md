@@ -32,5 +32,3 @@
 ## Leetcode Stats
 
 [![Sikandar Bhide LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=godfather_28&theme=tokyonight)](https://leetcode.com/Godfather_28/)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jirhscaziatabpok7zz55gkv2u&cover_image=true&theme=compact&show_offline=false&background_color=231f1f&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jirhscaziatabpok7zz55gkv2u&redirect=true)
