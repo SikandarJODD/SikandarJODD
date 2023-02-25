@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sikandar Bhide</h1>
+![Profile Image](header.png)
+
+<!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
 <h3 align="center">A Passionate Frontend  Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
