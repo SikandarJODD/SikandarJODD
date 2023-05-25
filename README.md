@@ -5,17 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikandarjodd" alt="sikandarjodd" /></a> </p>
 
-- 🔭 I’m currently working on **Svelte Js with Sass**
 
-- 🌱 I’m currently learning **Svelte Js**
+- 🔭 I’m currently working on **Bunny UI based on Svelte Components**
 
-- 👯 I’m looking to collaborate on **Svelte Js Projects**
+- 🌱 I’m currently learning **Lucia Auth + Prisma**
+
+- 👯 I’m looking to collaborate on **Svelte  & SvelteKit Related  Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a   href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide-911988211" height="30" width  href="https://www.codechef.com/users/sikandar_bhide" target="blank">  <img style="margin:7px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sikandar_bhide" height="30" widt  href="https://codeforces.com/profile/sikandar_bhide" target="blank">  <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sikandar_bhide" height="30" widt  href="https://www.leetcode.com/godfather_28" target="blank">  <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" wid  href="mailto:sikandar6174@gmail.com" target="blank">  <img style="margin:7px;" align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="godfather_28" height="40" width="40" /></a>
+<a   href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide-911988211" height="30" width   target="blank"></a>
+<a href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank">  <img style="margin:7px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sikandar_bhide" height="30" widt  href="https://codeforces.com/profile/sikandar_bhide" target="blank"> </a> <a href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank"> <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sikandar_bhide" height="30" widt  href="https://www.leetcode.com/godfather_28" target="blank"></a> <a href="https://leetcode.com/Godfather_28" target="blank"> <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" >  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,10 +29,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
 
-### Recent Worked Repos
+### Higly Foced Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=stuuu&theme=tokyonight)](https://github.com/sikandarjodd/stuuu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=button-gen&theme=tokyonight)](https://github.com/SikandarJODD/button-gen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight)](https://github.com/sikandarjodd/Delite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SweShirts&theme=tokyonight)](https://github.com/SikandarJODD/SweShirts)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=bun&theme=tokyonight)](https://github.com/SikandarJODD/bun)
 
 ## Leetcode Stats
 
