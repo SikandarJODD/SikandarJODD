@@ -1,9 +1,17 @@
-![Profile Image](header.png)
+<!-- ![Profile Image](header.png) -->
 
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sikandar.S.Bhide &fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3 align="center">A Passionate  <span style="color:#FFC108" >Svelte & SvelteKit Developer</span> From Mumbai,India</h3>
+<div align="center"  >
+<img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
 - 🔭 I’m currently working on **Tanjro based on Svelte Components**
 
