@@ -28,11 +28,12 @@
 
 ### Higly Focused Repos
 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF)](https://github.com/SikandarJODD/tanjiro)|
-| ------------- | ------------- | 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight&border_radius=8)](https://github.com/sikandarjodd/Delite)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SweShirts&theme=tokyonight&border_radius=8)](https://github.com/SikandarJODD/SweShirts)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight&border_radius=8)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth)|
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF)](https://github.com/SikandarJODD/tanjiro)
+
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight&border_radius=8)](https://github.com/sikandarjodd/Delite)
+| ------------- | ------------- |
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SweShirts&theme=tokyonight&border_radius=8)](https://github.com/SikandarJODD/SweShirts)
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight&border_radius=8)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth)
 
 ## Leetcode Stats
 
