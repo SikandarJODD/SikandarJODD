@@ -1,8 +1,11 @@
 <!-- ![Profile Image](header.png) -->
 
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
-<img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=180&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<h3 align="center">A Passionate  <span style="color:#FFC108" >Svelte & SvelteKit Developer</span> From Mumbai,India</h3>
+<img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+## A Passionate Svelte & SvelteKit Developer From India
+
+
 <div align="center"  >
 <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
@@ -33,7 +36,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sikandarjodd&show_icons=true&locale=en&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
 
-### Higly Focused Repos
+###  Higly Focused Repos
 
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/tanjiro)
 |-|
