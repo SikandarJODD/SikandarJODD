@@ -1,22 +1,20 @@
 ![Profile Image](header.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
-<h3 align="center">A Passionate Frontend  Developer From India</h3>
+<h3 align="center">A Passionate  <span style="color:#FFC108" >Svelte & SvelteKit Developer</span> From Mumbai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
-
-
-- 🔭 I’m currently working on **Bunny UI based on Svelte Components**
+- 🔭 I’m currently working on **Tanjro based on Svelte Components**
 
 - 🌱 I’m currently learning **Lucia Auth + Prisma**
 
-- 👯 I’m looking to collaborate on **Svelte  & SvelteKit Related  Projects**
+- 👯 I’m looking to collaborate on **Svelte & SvelteKit Related Projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Linked-In & Leetcode Profile</h3>
 <p align="left">
-<a   href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide-911988211" height="30" width   target="blank"></a>
-<a href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank">  <img style="margin:7px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sikandar_bhide" height="30" widt  href="https://codeforces.com/profile/sikandar_bhide" target="blank"> </a> <a href="https://linkedin.com/in/sikandar-bhide-911988211" target="blank"> <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sikandar_bhide" height="30" widt  href="https://www.leetcode.com/godfather_28" target="blank"></a> <a href="https://leetcode.com/Godfather_28" target="blank"> <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" >  </a>
+<a   href="https://linkedin.com/in/sikandar-bhide" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide-911988211" height="30" width   target="blank"></a>
+<a href="https://leetcode.com/Godfather_28/" target="blank">   <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" >  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,12 +27,21 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
 
-### Higly Foced Repos
+### Higly Focused Repos
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight)](https://github.com/SikandarJODD/tanjiro)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight)](https://github.com/sikandarjodd/Delite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SweShirts&theme=tokyonight)](https://github.com/SikandarJODD/SweShirts)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=bun&theme=tokyonight)](https://github.com/SikandarJODD/bun)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth)
+
 
 ## Leetcode Stats
 
 [![Sikandar Bhide LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=godfather_28&theme=tokyonight)](https://leetcode.com/Godfather_28/)
+
+# Recent Projects : 
+- <a href="https://supa-sigma.vercel.app"> Supabase - SvelteKit Auth</a>
+
+- <a href="https://tanjiro-wine.vercel.app"> Tanjiro - Svelte Components</a> Copy Paste Components
+
+
