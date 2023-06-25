@@ -1,7 +1,7 @@
 <!-- ![Profile Image](header.png) -->
 
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
-<img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=180&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3 align="center">A Passionate  <span style="color:#FFC108" >Svelte & SvelteKit Developer</span> From Mumbai,India</h3>
 <div align="center"  >
 <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
