@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
 <img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## A Passionate Svelte & SvelteKit Developer From India
+# A Passionate Svelte & SvelteKit Developer From India
 
 
 <div align="center"  >
