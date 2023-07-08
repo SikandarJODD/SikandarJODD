@@ -14,10 +14,9 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
-
 - 🔭 I’m currently working on **Tanjro based on Svelte Components**
 
-- 🌱 I’m currently learning **Lucia Auth + Prisma**
+- 🌱 I’m currently learning **Lucia Auth + Prisma, Drizzle ORM**
 
 - 👯 I’m looking to collaborate on **Svelte & SvelteKit Related Projects**
 
@@ -35,21 +34,20 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sikandarjodd&show_icons=true&locale=en&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
 
-#  Higly Focused Repos
 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/tanjiro)
-|-|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight&border_radius=8)](https://github.com/sikandarjodd/Delite)
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SweShirts&theme=tokyonight&border_radius=8)](https://github.com/SikandarJODD/SweShirts)
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight&border_radius=8&bg_color=001D36FF)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth)
+### Higly Focused Repos
 
+|   Coding   |  Repos  |
+| ------------- | ------------- |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/tanjiro)  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SvelteKit-Drizzle&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/SvelteKit-Drizzle)  |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight&border_radius=8)](https://github.com/sikandarjodd/Delite) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight&border_radius=8&bg_color=001D36FF)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth) |
 
-# Leetcode Stats
+#### Leetcode Stats
 
 [![Sikandar Bhide LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=godfather_28&theme=tokyonight)](https://leetcode.com/Godfather_28/)
 
-# Recent Projects :
+#### Recent Projects :
 
 - <a href="https://supa-sigma.vercel.app"> Supabase - SvelteKit Auth</a>
 
-- <a href="https://tanjiro-wine.vercel.app"> Tanjiro - Svelte Components</a> Copy Paste Components
+- <a href="https://tanjiro-wine.vercel.app"> Tanjiro - Svelte Components</a>
