@@ -1,4 +1,4 @@
-![Profile Image](GoodProfile.jpg)
+![Profile Image](Profile.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Sikandar Bhide</h1> -->
 <!-- <img width=100% title="Sikandar Bhide" alt="Sikandar Bhide" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Sikandar.S.Bhide&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
