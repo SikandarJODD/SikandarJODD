@@ -32,6 +32,7 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=sikandarjodd&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sikandarjodd&show_icons=true&locale=en&theme=tokyonight)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
 
 
@@ -40,11 +41,6 @@
 |   Coding   |  Repos  |
 | ------------- | ------------- |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=svelte-animations&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/svelte-animations)  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=portfolio-template&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/portfolio-template)  |
-
-
-#### Leetcode Stats
-
-[![Sikandar Bhide LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=godfather_28&theme=tokyonight)](https://leetcode.com/Godfather_28/)
 
 #### Recent Projects :
 
