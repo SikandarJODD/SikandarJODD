@@ -39,8 +39,8 @@
 
 |   Coding   |  Repos  |
 | ------------- | ------------- |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=tanjiro&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/tanjiro)  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=SvelteKit-Drizzle&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/SvelteKit-Drizzle)  |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Delite&theme=tokyonight&border_radius=8)](https://github.com/sikandarjodd/Delite) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=Sveltekit-Supabase-Auth&theme=tokyonight&border_radius=8&bg_color=001D36FF)](https://github.com/SikandarJODD/Sveltekit-Supabase-Auth) |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=svelte-animations&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/svelte-animations)  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=portfolio-template&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/portfolio-template)  |
+
 
 #### Leetcode Stats
 
@@ -48,6 +48,6 @@
 
 #### Recent Projects :
 
-- <a href="https://supa-sigma.vercel.app"> Supabase - SvelteKit Auth</a>
+- [Svelte Animations](https://animation-svelte.vercel.app/) - High Quality Components build using Svelte, Tailwind CSS, Svelte Motion includes Magic UI, Aceternity UI, Luxe UI, Indie UI
 
-- <a href="https://tanjiro-wine.vercel.app"> Tanjiro - Svelte Components</a>
+- [Svelte Tailwind Components](https://sv-tw.vercel.app/) - Tailwind Components from Tailwind UI with Mixture of Shadcn-Svelte - build using Svelte 5
