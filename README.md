@@ -6,19 +6,15 @@
 # A Passionate Svelte & SvelteKit Developer From India
 
 <div align="center"  >
-<img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%20svelte-000000?style=for-the-badge&logo=shadcnui&logoColor=red"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sikandarjodd&label=Profile%20views&color=0e75b6&style=flat" alt="sikandarjodd" /> </p>
 
-- 🔭 I’m currently working on **Tanjro based on Svelte Components**
-
-- 🌱 I’m currently learning **Lucia Auth + Prisma, Drizzle ORM**
-
-- 👯 I’m looking to collaborate on **Svelte & SvelteKit Related Projects**
+- 🔭 I’m currently working on **Super SV**
 
 <h2 align="left">Linked-In & Leetcode Profile</h2>
 <p align="left">
@@ -33,17 +29,10 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=sikandarjodd&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sikandarjodd&show_icons=true&locale=en&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandarjodd&theme=tokyonight" alt="mystreak"/>
-
-
-### Higly Focused Repos
-
-|   Coding   |  Repos  |
-| ------------- | ------------- |
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=svelte-animations&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/svelte-animations)  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikandarjodd&repo=portfolio-template&theme=tokyonight&border_radius=8&title_color=54E0FF&border_color=00F2FF&bg_color=001D36FF)](https://github.com/SikandarJODD/portfolio-template)  |
 
 #### Recent Projects :
 
 - [Svelte Animations](https://animation-svelte.vercel.app/) - High Quality Components build using Svelte, Tailwind CSS, Svelte Motion includes Magic UI, Aceternity UI, Luxe UI, Indie UI
-
-- [Svelte Tailwind Components](https://sv-tw.vercel.app/) - Tailwind Components from Tailwind UI with Mixture of Shadcn-Svelte - build using Svelte 5
+- [Framer Ground](https://github.com/SikandarJODD/framer-ground-svelte) - Cool Animation build using Svelte, View Transition API
+- [Super SV]() - Collection of Form Validation Examples build using Sveltekit, Superforms, Formsnap. Includes Client-Server Validation, Multi-Step Forms, File Validation, Debounce Search Forms and many more..
+- [Youva Template](https://github.com/SikandarJODD/youva) - Project to learn Pagination, Caching, Filtering & Sorting, Debounce Search.., Build using Svektekit, Drizzle ORM, Supabase and Dummy JSON API. 
