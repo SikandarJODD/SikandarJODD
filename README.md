@@ -18,8 +18,8 @@
 
 <h2 align="left">Linked-In & Leetcode Profile</h2>
 <p align="left">
-<a   href="https://linkedin.com/in/sikandar-bhide" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide-911988211" height="30" width   target="blank"></a>
-<a href="https://leetcode.com/Godfather_28/" target="blank">   <img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" >  </a>
+<a href="https://linkedin.com/in/sikandar-bhide" target="_blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikandar-bhide" height="30" width="30" target="blank"></a>
+<a href="https://leetcode.com/Godfather_28/" target="_blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godfather_28" height="30" width="30">  </a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -33,6 +33,7 @@
 #### Recent Projects :
 
 - [Svelte Animations](https://animation-svelte.vercel.app/) - High Quality Components build using Svelte, Tailwind CSS, Svelte Motion includes Magic UI, Aceternity UI, Luxe UI, Indie UI
+- [Svelte Form Builder](https://svelte-form-builder.vercel.app) - Create forms with Shadcn Svelte, Superforms and schema within minutes.
 - [Framer Ground](https://github.com/SikandarJODD/framer-ground-svelte) - Cool Animation build using Svelte, View Transition API
 - [Super SV]() - Collection of Form Validation Examples build using Sveltekit, Superforms, Formsnap. Includes Client-Server Validation, Multi-Step Forms, File Validation, Debounce Search Forms and many more..
 - [Youva Template](https://github.com/SikandarJODD/youva) - Project to learn Pagination, Caching, Filtering & Sorting, Debounce Search.., Build using Svektekit, Drizzle ORM, Supabase and Dummy JSON API. 
