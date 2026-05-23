@@ -5,6 +5,8 @@
 
 Building high-quality Svelte components, AI tools, and developer-focused projects.
 
+Portfolio : [Bhide Svelte](https://bhide.dev)
+
 ## Open Source Projects
 
 - [Svelte Animations (New)](https://sv-animations.vercel.app) - 50+ animation components and modern UI effects built for Svelte 5.
